@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software or configuration suite, please cite it as below."
+type: software
+title: "99 Nights in the Forest Roblox Script Hub & Auto Survival"
+abstract: "99 Nights in the Forest Roblox Script Hub & Auto Survival for PC & Mobile Executors — Modular Luau script suite with auto-quest loop and."
+authors:
+  - alias: "SebastienKorkmaz58311"
+    name: "SebastienKorkmaz58311"
+version: "4.2.4"
+date-released: "2026-11-25"
+license: MIT
+repository-code: "https://github.com/SebastienKorkmaz58311/99-nights-in-the-forest-script-2026"
+url: "https://SebastienKorkmaz58311.github.io/99-nights-in-the-forest-script-2026/"

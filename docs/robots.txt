@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://SebastienKorkmaz58311.github.io/99-nights-in-the-forest-script-2026/sitemap.xml
